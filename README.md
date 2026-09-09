@@ -1,6 +1,6 @@
 # Shayan Saud — Personal Portfolio
 
-This is my personal portfolio website, created for CS 3365 at Texas Tech University. It includes information about me, my skills, projects, and contact details.
+This is my personal portfolio website, which I created for CS 3365 at Texas Tech University. It includes information about me, my skills, projects, and contact details.
 
 ## Technologies Used
 - HTML and CSS
@@ -23,4 +23,4 @@ To view the website locally, clone this repository using:
 Then open the Portfolio folder and double-click index.html to view it in a browser.
 
 ## Credits
-This website was adapted from the portfolio template provided by my professor for CS 3365.
+This website was adapted from the portfolio template provided by professor Maaz Amjad for CS 3365.
